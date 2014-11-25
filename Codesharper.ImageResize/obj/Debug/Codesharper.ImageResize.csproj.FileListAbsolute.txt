@@ -1,0 +1,1 @@
+C:\Github\Codesharper.ImageResize\Codesharper.ImageResize\bin\Debug\Codesharper.ImageResize.exe.config
